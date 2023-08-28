@@ -1,4 +1,4 @@
-﻿# Simple-Page-Website
+﻿# Simple-Page-Portfolio
 <br><br>
 <b>This is a "Simple Page Portfolio website" for HTML, CSS and Javascript.</b>
 <br><br>
